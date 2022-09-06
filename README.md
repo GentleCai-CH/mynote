@@ -1,2 +1,2 @@
 # mynote
-react
+uniapp
